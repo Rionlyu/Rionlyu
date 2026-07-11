@@ -1,6 +1,6 @@
 ## Hi, I'm Beniamin
 
-Software engineer and computer science student at Warsaw University of Technology.
+Software engineer (GEP.com) and computer science student at Warsaw University of Technology.
 I work primarily with backend systems.
 
 Currently learning more about Kubernetes, distributed scheduling, cloud infrastructure, and observability.
